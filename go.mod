@@ -1,3 +1,3 @@
-module github.com:chriszhangmq/go_modules/proto
+module github.com:chriszhangmq/go_modules
 
 go 1.15
