@@ -1,3 +1,3 @@
-module github.com:chriszhangmq/go_modules
+module github.com/chriszhangmq/go_modules
 
 go 1.15
